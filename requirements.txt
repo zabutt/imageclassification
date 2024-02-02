@@ -1,4 +1,4 @@
 streamlit
 tensorflow
-tensorflow-hub 
+tensorflow-hub
 opencv-python
